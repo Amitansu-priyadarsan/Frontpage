@@ -14,10 +14,10 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">What is GPT3?</a></p>
-          <p><a href="#possibility">Open AI</a></p>
-          <p><a href="#features">Case Studies</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#wgpt3">DOCUMENTS</a></p>
+          <p><a href="https://calender-bice.vercel.app/"> Calender</a></p>
+          <p><a href="https://marketplace-xflu.vercel.app/">marketplace</a></p>
+          <p><a href="https://videocall-two.vercel.app/">Videocall</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
